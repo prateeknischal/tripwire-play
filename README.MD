@@ -4,6 +4,8 @@
 
 Tripwire-play is a docker image for a tripwire installation on CentOS:latest base image
 
+Docker hub : [docker-hub](https://hub.docker.com/r/prateeknischal/tripwire-play/)            
+
 Installation instructions : [link](https://admin-ahead.com/forum/general-linux/install-and-configure-tripwire-in-centos-server/)          
 Configuration : [Safari Books link](https://www.safaribooksonline.com/library/view/linux-security-cookbook/0596003919/ch01s01.html)       
 
