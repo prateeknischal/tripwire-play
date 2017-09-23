@@ -4,8 +4,8 @@
 
 Tripwire-play is a docker image for a tripwire installation on CentOS:latest base image
 
-Installation instructions : [link](https://admin-ahead.com/forum/general-linux/install-and-configure-tripwire-in-centos-server/)
-Configuration : [Safari Books link](https://www.safaribooksonline.com/library/view/linux-security-cookbook/0596003919/ch01s01.html)
+Installation instructions : [link](https://admin-ahead.com/forum/general-linux/install-and-configure-tripwire-in-centos-server/)          
+Configuration : [Safari Books link](https://www.safaribooksonline.com/library/view/linux-security-cookbook/0596003919/ch01s01.html)       
 
 ### Usage
   - alter the site key and local key passwords in the [tripwire-init.sh](https://github.com/prateeknischal/tripwire-play/blob/master/tripwire-init.sh) file
